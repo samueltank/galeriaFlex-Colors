@@ -1,1 +1,1 @@
-# galeriaGrid
+# Galeria Flex
